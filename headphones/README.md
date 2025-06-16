@@ -1,0 +1,1 @@
+This project is about implementing a design from scratch using only html and css.
